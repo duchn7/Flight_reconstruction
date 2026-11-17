@@ -4,6 +4,6 @@ Reconstruction of the takeoff and landing sequences of a commercial flight using
 Flight: KLM1078, Bristol (EGGD) to Amsterdam (EHAM), 9 November 2026
 
 Position data source: Flight Aware
-Acceleration and Euler angle data source: iPhone 17 Pro Max
+Acceleration and Euler angle data source: iPhone 14 Pro Max
 Runway data source: OpenStreetMap
 Coding: Claude Sonnet 5.5
